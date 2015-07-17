@@ -1,0 +1,23 @@
+{
+  "name": "MoaQUtils",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Moa Chung"
+  },
+  "homepage": "https://github.com/honomoa/MoaQUtils/",
+  "keywords": [
+    "moa",
+    "utils",
+    "promise",
+    "q"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/honomoa/MoaQUtils.git"
+  },
+  "dependencies": {
+    "MoaLog": "honomoa/MoaLog",
+    "q": "^1.4.1"
+  }
+}
